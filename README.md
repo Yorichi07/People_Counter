@@ -1,2 +1,2 @@
-## Here is the link to website - [https://fabulous-dragon-bd332f.netlify.app/](https://fabulous-dragon-bd332f.netlify.app/)
+## Here is the link to website - [https://people-counter-adityasharma.netlify.app/](https://people-counter-adityasharma.netlify.app/)
 ### I build this during my journey of learning JavaScript
